@@ -15,28 +15,28 @@ Repositori ini berisi contoh-contoh sederhana untuk belajar dasar-dasar pemrogra
 
 ### Form Input
 
-![Form Input](./screenshot/ss2.jpg)
+![Form Input](./screenshot/ss2.png)
 
 - Menunjukkan cara membuat form input dengan HTML dan memprosesnya menggunakan PHP.
 - Pengguna dapat memasukkan nama pada form, kemudian nama tersebut akan ditampilkan.
 
 ### Operator
 
-![Operator](./screenshot/ss3.jpg)
+![Operator](./screenshot/ss3.png)
 
 - Contoh penggunaan operator dalam PHP, termasuk operator aritmatika dan operator penugasan.
 - Demonstrasi penggunaan operator untuk menghitung gaji yang dibawa pulang setelah dipotong pajak.
 
 ### Kondisi (IF dan Switch)
 
-![Kondisi](./screenshot/ss4.jpg)
+![Kondisi](./screenshot/ss4.png)
 
 - Contoh penggunaan struktur kondisi IF dan Switch dalam PHP.
 - Menggunakan kondisi untuk menentukan hari berdasarkan hari saat ini.
 
 ### Perulangan (for, while, dan do-while)
 
-![Perulangan](./screenshot/ss5.jpg)
+![Perulangan](./screenshot/ss5.png)
 
 - Contoh penggunaan perulangan for, while, dan do-while dalam PHP.
 - Menampilkan perulangan angka 1 hingga 10 dan sebaliknya.
@@ -47,8 +47,8 @@ Dalam `tugas.php`, saya membuat sebuah tugas yang melibatkan interaksi pengguna:
 
 - **Form Input**: Saya membuat formulir di mana pengguna diminta untuk memasukkan nama, tanggal lahir, dan pekerjaan mereka. Saya kemudian memproses informasi ini untuk menghitung umur berdasarkan tanggal lahir dan menentukan gaji berdasarkan pekerjaan yang dipilih.
 
-![Tugas PHP](./screenshot/ss6.jpg)
-![Tugas PHP](./screenshot/ss7.jpg)
+![Tugas PHP](./screenshot/ss6.png)
+![Tugas PHP](./screenshot/ss7.png)
 
 ### Form Input
 
