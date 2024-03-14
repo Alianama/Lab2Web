@@ -9,6 +9,8 @@ Repositori ini berisi contoh-contoh sederhana untuk belajar dasar-dasar pemrogra
 
 ### Penggunaan Variabel
 
+![Penggunaan Variabel](screenshot/ss1.jpg)
+
 - Demonstrasi penggunaan variabel dalam PHP, termasuk string dan integer.
 
 ### Form Input
